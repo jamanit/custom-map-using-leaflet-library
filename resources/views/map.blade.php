@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Costume Map with Leaflet</title>
+    <title>Costume Map using Leaflet Library</title>
 
     <link rel="stylesheet" href="{{ asset('/') }}leaflet-1.9.4/leaflet.css">
     <script src="{{ asset('/') }}leaflet-1.9.4/leaflet.js"></script>
@@ -15,7 +15,7 @@
 
 <body>
     <div>
-        <h1>Costume Map with Leaflet</h1>
+        <h1>Costume Map using Leaflet Library</h1>
 
         <br>
         <div id="map" style="width: 650px; height: 350px;"></div>
